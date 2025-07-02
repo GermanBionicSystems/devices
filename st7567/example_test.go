@@ -20,7 +20,7 @@ import (
 
 	"periph.io/x/conn/v3/gpio/gpioreg"
 	"periph.io/x/conn/v3/spi/spireg"
-	"periph.io/x/devices/v3/st7567"
+	"github.com/GermanBionicSystems/devices/v3/st7567"
 	"periph.io/x/host/v3"
 )
 

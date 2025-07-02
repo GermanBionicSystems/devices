@@ -11,8 +11,8 @@ import (
 	"time"
 
 	"periph.io/x/conn/v3/spi/spireg"
-	"periph.io/x/devices/v3/mfrc522"
-	"periph.io/x/devices/v3/mfrc522/commands"
+	"github.com/GermanBionicSystems/devices/v3/mfrc522"
+	"github.com/GermanBionicSystems/devices/v3/mfrc522/commands"
 	"periph.io/x/host/v3"
 	"periph.io/x/host/v3/rpi"
 )

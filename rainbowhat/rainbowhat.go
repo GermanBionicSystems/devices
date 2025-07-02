@@ -8,9 +8,9 @@ import (
 	"periph.io/x/conn/v3/gpio"
 	"periph.io/x/conn/v3/i2c/i2creg"
 	"periph.io/x/conn/v3/spi/spireg"
-	"periph.io/x/devices/v3/apa102"
-	"periph.io/x/devices/v3/bmxx80"
-	"periph.io/x/devices/v3/ht16k33"
+	"github.com/GermanBionicSystems/devices/v3/apa102"
+	"github.com/GermanBionicSystems/devices/v3/bmxx80"
+	"github.com/GermanBionicSystems/devices/v3/ht16k33"
 	"periph.io/x/host/v3/rpi"
 )
 

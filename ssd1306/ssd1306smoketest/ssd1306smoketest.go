@@ -25,8 +25,8 @@ import (
 	"periph.io/x/conn/v3/spi"
 	"periph.io/x/conn/v3/spi/spireg"
 	"periph.io/x/conn/v3/spi/spitest"
-	"periph.io/x/devices/v3/ssd1306"
-	"periph.io/x/devices/v3/ssd1306/image1bit"
+	"github.com/GermanBionicSystems/devices/v3/ssd1306"
+	"github.com/GermanBionicSystems/devices/v3/ssd1306/image1bit"
 )
 
 // SmokeTest is imported by periph-smoketest.

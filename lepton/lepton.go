@@ -17,9 +17,9 @@ import (
 	"periph.io/x/conn/v3/i2c"
 	"periph.io/x/conn/v3/physic"
 	"periph.io/x/conn/v3/spi"
-	"periph.io/x/devices/v3/lepton/cci"
-	"periph.io/x/devices/v3/lepton/image14bit"
-	"periph.io/x/devices/v3/lepton/internal"
+	"github.com/GermanBionicSystems/devices/v3/lepton/cci"
+	"github.com/GermanBionicSystems/devices/v3/lepton/image14bit"
+	"github.com/GermanBionicSystems/devices/v3/lepton/internal"
 )
 
 // Metadata is constructed from telemetry data, which is sent with each frame.

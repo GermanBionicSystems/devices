@@ -9,7 +9,7 @@ import (
 
 	"periph.io/x/conn/v3/i2c/i2creg"
 	"periph.io/x/conn/v3/physic"
-	"periph.io/x/devices/v3/pca9685"
+	"github.com/GermanBionicSystems/devices/v3/pca9685"
 	"periph.io/x/host/v3"
 )
 

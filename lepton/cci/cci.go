@@ -21,7 +21,7 @@ import (
 	"periph.io/x/conn/v3/i2c"
 	"periph.io/x/conn/v3/mmr"
 	"periph.io/x/conn/v3/physic"
-	"periph.io/x/devices/v3/lepton/internal"
+	"github.com/GermanBionicSystems/devices/v3/lepton/internal"
 )
 
 // StatusBit is the status as returned by the FLIR Lepton.

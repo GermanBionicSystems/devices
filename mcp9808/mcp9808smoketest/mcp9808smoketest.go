@@ -11,7 +11,7 @@ import (
 	"fmt"
 
 	"periph.io/x/conn/v3/i2c/i2creg"
-	"periph.io/x/devices/v3/mcp9808"
+	"github.com/GermanBionicSystems/devices/v3/mcp9808"
 	"periph.io/x/host/v3"
 )
 

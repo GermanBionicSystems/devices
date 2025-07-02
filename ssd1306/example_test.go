@@ -9,8 +9,8 @@ import (
 	"log"
 
 	"periph.io/x/conn/v3/i2c/i2creg"
-	"periph.io/x/devices/v3/ssd1306"
-	"periph.io/x/devices/v3/ssd1306/image1bit"
+	"github.com/GermanBionicSystems/devices/v3/ssd1306"
+	"github.com/GermanBionicSystems/devices/v3/ssd1306/image1bit"
 	"periph.io/x/host/v3"
 )
 

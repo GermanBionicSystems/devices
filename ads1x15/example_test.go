@@ -10,7 +10,7 @@ import (
 
 	"periph.io/x/conn/v3/i2c/i2creg"
 	"periph.io/x/conn/v3/physic"
-	"periph.io/x/devices/v3/ads1x15"
+	"github.com/GermanBionicSystems/devices/v3/ads1x15"
 	"periph.io/x/host/v3"
 )
 

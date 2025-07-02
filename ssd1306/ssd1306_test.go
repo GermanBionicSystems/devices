@@ -18,7 +18,7 @@ import (
 	"periph.io/x/conn/v3/physic"
 	"periph.io/x/conn/v3/spi"
 	"periph.io/x/conn/v3/spi/spitest"
-	"periph.io/x/devices/v3/ssd1306/image1bit"
+	"github.com/GermanBionicSystems/devices/v3/ssd1306/image1bit"
 )
 
 func TestNewI2C_fail(t *testing.T) {

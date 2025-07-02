@@ -16,8 +16,8 @@ import (
 
 	"periph.io/x/conn/v3/gpio"
 	"periph.io/x/conn/v3/physic"
-	"periph.io/x/devices/v3/apa102"
-	"periph.io/x/devices/v3/rainbowhat"
+	"github.com/GermanBionicSystems/devices/v3/apa102"
+	"github.com/GermanBionicSystems/devices/v3/rainbowhat"
 	"periph.io/x/host/v3"
 )
 

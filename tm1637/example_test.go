@@ -8,7 +8,7 @@ import (
 	"log"
 
 	"periph.io/x/conn/v3/gpio/gpioreg"
-	"periph.io/x/devices/v3/tm1637"
+	"github.com/GermanBionicSystems/devices/v3/tm1637"
 	"periph.io/x/host/v3"
 )
 

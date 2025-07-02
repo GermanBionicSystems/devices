@@ -9,7 +9,7 @@ import (
 	"log"
 
 	"periph.io/x/conn/v3/i2c/i2creg"
-	"periph.io/x/devices/v3/ina219"
+	"github.com/GermanBionicSystems/devices/v3/ina219"
 	"periph.io/x/host/v3"
 )
 

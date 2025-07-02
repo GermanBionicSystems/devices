@@ -10,7 +10,7 @@ import (
 
 	"periph.io/x/conn/v3/gpio"
 	"periph.io/x/conn/v3/i2c/i2creg"
-	"periph.io/x/devices/v3/mcp23xxx"
+	"github.com/GermanBionicSystems/devices/v3/mcp23xxx"
 	"periph.io/x/host/v3"
 )
 

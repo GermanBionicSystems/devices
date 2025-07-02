@@ -10,7 +10,7 @@ import (
 	"log"
 
 	"periph.io/x/conn/v3/spi/spireg"
-	"periph.io/x/devices/v3/apa102"
+	"github.com/GermanBionicSystems/devices/v3/apa102"
 	"periph.io/x/host/v3"
 )
 
